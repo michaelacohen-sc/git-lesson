@@ -9,3 +9,12 @@ This lesson is for the MolSSI Best Practices workshop.
 1. Make changes to your project you would like to keep.
 1. When you have your changes, tell git you are ready to create a checkppoint of the files using 'git add filename'
 1. Create a checkpoint using 'git commit -, "message about what you did"
+
+## Adding Features
+Features should be developed on branches. To create and switch to a branch, use the command
+
+`git switch -c new_branch_name`
+
+To switch to an existing branch, use
+
+`git switch branch_name`
