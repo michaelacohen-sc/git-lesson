@@ -31,5 +31,8 @@ wheels/
 *.manifest
 *.spec
 
+# emacs
+*~
+
 ...
 
